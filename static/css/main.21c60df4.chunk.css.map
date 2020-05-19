@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,oCAAsC,CACtC,sFACF","file":"main.21c60df4.chunk.css","sourcesContent":["body {\n  font-family: 'Press Start 2P', cursive;\n  background: repeating-linear-gradient(to bottom, #0f0a1e, #0f0a1e 2px, #140e29 2px, #140e29 4px);\n}"]}
